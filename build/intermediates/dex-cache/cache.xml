@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-12cb340e4095a64d105ae28f9b3148807623b283.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-69e41f5b2216ca62035b0132432a005d2eab9bbd.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-50c69349a5c4d5c65a31f58bf58aadde01a647ea.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-562256a29f752c0941823197ec6335a91862bed6.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-9a630591ba60eca89d1fd102de1a841b622326ba.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-da422e16b99f7dbf37560f6a1341e25b2c17e6ad.jar" />
+    </item>
+    <item
+        jar="/home/binod/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/glide-3.6.0-2bd9370258c9c344d0bf488294fd8c43246b40aa.jar" />
+    </item>
+    <item
+        jar="/home/binod/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-303ef2c7111b571e04300b4d109e8793ce225be5.jar" />
+    </item>
+    <item
+        jar="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/home/binod/Desktop/Ncell/Foodie Nepal/app/build/intermediates/pre-dexed/debug/classes-018da2b32c6866d84c1b399623da4cfe88dcad0a.jar" />
+    </item>
+
+</items>
